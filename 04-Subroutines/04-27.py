@@ -1,0 +1,11 @@
+txt='Nam strzelać nie kazano. Wstąpiłem na działo. I spojrzałem na pole, dwieście armat grzmiało. Artyleryji ruskiej ciągną się szeregi, Prosto, długo, daleko, jako morza brzegi.'
+a=txt.count('a')
+b=txt.count('ą')
+c=txt.count('e')
+d=txt.count('ę')
+e=txt.count('i')
+f=txt.count('o')
+g=txt.count('ó')
+h=txt.count('y')
+i=txt.count('u')
+print("W podanym fragmencie tekstu pt. Reduta Ordona samogłoska 'a' występuje",a,"razy, 'ą'",b,"razy, 'e'",c,"razy, 'ę'",d,"raz, 'i'",e,"razy, 'o'",f,"razy, 'ó'",g,"razy, 'u'",h,"razy, 'y'",i,".")

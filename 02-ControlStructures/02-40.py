@@ -20,5 +20,5 @@ for i in range(1,101):
         p+=1
     elif x==6:
         s+=1
-print("Jedynka: ",j,"\nDwójka= ",d,"\nTrójka: ",t,"\nCzwórka: ",c,"\nPiątka: ",p,"\nSzóstka: ",s)
+print("Jedynka: ",j,"\nDwójka: ",d,"\nTrójka: ",t,"\nCzwórka: ",c,"\nPiątka: ",p,"\nSzóstka: ",s)
       
